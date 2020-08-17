@@ -1,0 +1,267 @@
+17-Aug-2020 23:12:28.853 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.56
+17-Aug-2020 23:12:28.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 3 2020 20:18:30 UTC
+17-Aug-2020 23:12:28.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.56.0
+17-Aug-2020 23:12:28.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+17-Aug-2020 23:12:28.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+17-Aug-2020 23:12:28.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+17-Aug-2020 23:12:28.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_251
+17-Aug-2020 23:12:28.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_251-b08
+17-Aug-2020 23:12:28.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+17-Aug-2020 23:12:28.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56
+17-Aug-2020 23:12:28.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56
+17-Aug-2020 23:12:28.863 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\conf\logging.properties
+17-Aug-2020 23:12:28.863 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-Aug-2020 23:12:28.863 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+17-Aug-2020 23:12:28.864 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+17-Aug-2020 23:12:28.864 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+17-Aug-2020 23:12:28.864 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56
+17-Aug-2020 23:12:28.865 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56
+17-Aug-2020 23:12:28.866 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\temp
+17-Aug-2020 23:12:28.867 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+17-Aug-2020 23:12:28.868 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+17-Aug-2020 23:12:28.869 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+17-Aug-2020 23:12:28.959 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+17-Aug-2020 23:12:29.186 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:12:30.620 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+17-Aug-2020 23:12:30.657 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2935 ms
+17-Aug-2020 23:12:30.752 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-Aug-2020 23:12:30.753 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.56
+17-Aug-2020 23:12:30.850 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\bankbankend.war]
+17-Aug-2020 23:12:34.350 WARNING [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+17-Aug-2020 23:12:48.041 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+17-Aug-2020 23:13:14.362 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\bankbankend.war] has finished in [43,511] ms
+17-Aug-2020 23:13:14.366 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\bank]
+17-Aug-2020 23:13:14.464 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\bank] has finished in [97] ms
+17-Aug-2020 23:13:14.464 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\docs]
+17-Aug-2020 23:13:14.554 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\docs] has finished in [90] ms
+17-Aug-2020 23:13:14.557 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\examples]
+17-Aug-2020 23:13:16.371 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\examples] has finished in [1,814] ms
+17-Aug-2020 23:13:16.373 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\host-manager]
+17-Aug-2020 23:13:16.513 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\host-manager] has finished in [140] ms
+17-Aug-2020 23:13:16.523 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\manager]
+17-Aug-2020 23:13:16.653 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\manager] has finished in [131] ms
+17-Aug-2020 23:13:16.658 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\ROOT]
+17-Aug-2020 23:13:16.740 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\ROOT] has finished in [81] ms
+17-Aug-2020 23:13:16.749 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:13:16.788 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 46128 ms
+17-Aug-2020 23:24:27.930 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/bankbankend]
+17-Aug-2020 23:24:28.010 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [bankbankend] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(Unknown Source)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:85)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+ java.lang.Thread.run(Unknown Source)
+17-Aug-2020 23:24:28.055 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\bankbankend.war]
+17-Aug-2020 23:24:31.543 INFO [mysql-cj-abandoned-connection-cleanup] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1378)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:1030)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:117)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:84)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+		at java.lang.Thread.run(Unknown Source)
+17-Aug-2020 23:24:31.653 WARNING [localhost-startStop-2] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+17-Aug-2020 23:24:39.537 INFO [localhost-startStop-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+17-Aug-2020 23:24:46.003 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+17-Aug-2020 23:24:46.022 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:24:48.175 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+17-Aug-2020 23:24:48.176 SEVERE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.deployWARs Error waiting for multi-thread deployment of WAR files to complete
+	java.lang.InterruptedException
+		at java.util.concurrent.FutureTask.awaitDone(Unknown Source)
+		at java.util.concurrent.FutureTask.get(Unknown Source)
+		at org.apache.catalina.startup.HostConfig.deployWARs(HostConfig.java:762)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:426)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1612)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:304)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1159)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1381)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1385)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1353)
+		at java.lang.Thread.run(Unknown Source)
+17-Aug-2020 23:25:00.799 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\bankbankend.war] has finished in [32,744] ms
+17-Aug-2020 23:25:00.908 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [bankbankend] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(Unknown Source)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:85)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+ java.lang.Thread.run(Unknown Source)
+17-Aug-2020 23:25:01.009 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:25:01.016 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:26:17.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.56
+17-Aug-2020 23:26:17.570 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 3 2020 20:18:30 UTC
+17-Aug-2020 23:26:17.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.56.0
+17-Aug-2020 23:26:17.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+17-Aug-2020 23:26:17.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+17-Aug-2020 23:26:17.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+17-Aug-2020 23:26:17.572 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_251
+17-Aug-2020 23:26:17.572 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_251-b08
+17-Aug-2020 23:26:17.572 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+17-Aug-2020 23:26:17.572 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56
+17-Aug-2020 23:26:17.573 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56
+17-Aug-2020 23:26:17.573 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\conf\logging.properties
+17-Aug-2020 23:26:17.574 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-Aug-2020 23:26:17.574 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+17-Aug-2020 23:26:17.574 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+17-Aug-2020 23:26:17.574 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+17-Aug-2020 23:26:17.576 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56
+17-Aug-2020 23:26:17.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56
+17-Aug-2020 23:26:17.580 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\temp
+17-Aug-2020 23:26:17.583 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+17-Aug-2020 23:26:17.584 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+17-Aug-2020 23:26:17.585 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+17-Aug-2020 23:26:17.616 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+17-Aug-2020 23:26:17.901 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:26:19.446 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+17-Aug-2020 23:26:19.468 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2599 ms
+17-Aug-2020 23:26:19.553 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-Aug-2020 23:26:19.553 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.56
+17-Aug-2020 23:26:19.594 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\bankbackend.war]
+17-Aug-2020 23:26:23.364 WARNING [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+17-Aug-2020 23:26:34.619 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+17-Aug-2020 23:26:57.164 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\bankbackend.war] has finished in [37,570] ms
+17-Aug-2020 23:26:57.168 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\bank]
+17-Aug-2020 23:26:57.227 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\bank] has finished in [59] ms
+17-Aug-2020 23:26:57.228 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\docs]
+17-Aug-2020 23:26:57.305 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\docs] has finished in [77] ms
+17-Aug-2020 23:26:57.307 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\examples]
+17-Aug-2020 23:26:58.811 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\examples] has finished in [1,505] ms
+17-Aug-2020 23:26:58.813 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\host-manager]
+17-Aug-2020 23:26:58.920 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\host-manager] has finished in [107] ms
+17-Aug-2020 23:26:58.921 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\manager]
+17-Aug-2020 23:26:59.002 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\manager] has finished in [81] ms
+17-Aug-2020 23:26:59.003 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\ROOT]
+17-Aug-2020 23:26:59.049 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\ROOT] has finished in [46] ms
+17-Aug-2020 23:26:59.055 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:26:59.069 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 39599 ms
+17-Aug-2020 23:33:27.893 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+17-Aug-2020 23:33:27.895 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:33:29.447 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+17-Aug-2020 23:33:29.747 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [bankbackend] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(Unknown Source)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:85)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+ java.lang.Thread.run(Unknown Source)
+17-Aug-2020 23:33:29.782 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:33:29.787 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:36:44.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.56
+17-Aug-2020 23:36:44.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 3 2020 20:18:30 UTC
+17-Aug-2020 23:36:44.755 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.56.0
+17-Aug-2020 23:36:44.755 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+17-Aug-2020 23:36:44.755 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+17-Aug-2020 23:36:44.755 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+17-Aug-2020 23:36:44.756 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_251
+17-Aug-2020 23:36:44.756 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_251-b08
+17-Aug-2020 23:36:44.756 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+17-Aug-2020 23:36:44.756 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56
+17-Aug-2020 23:36:44.756 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56
+17-Aug-2020 23:36:44.757 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\conf\logging.properties
+17-Aug-2020 23:36:44.757 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-Aug-2020 23:36:44.757 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+17-Aug-2020 23:36:44.757 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+17-Aug-2020 23:36:44.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+17-Aug-2020 23:36:44.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56
+17-Aug-2020 23:36:44.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56
+17-Aug-2020 23:36:44.760 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\temp
+17-Aug-2020 23:36:44.766 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+17-Aug-2020 23:36:44.767 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+17-Aug-2020 23:36:44.769 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+17-Aug-2020 23:36:44.829 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+17-Aug-2020 23:36:45.107 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:36:46.657 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+17-Aug-2020 23:36:46.706 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2668 ms
+17-Aug-2020 23:36:46.814 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-Aug-2020 23:36:46.815 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.56
+17-Aug-2020 23:36:46.877 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\bankbackend.war]
+17-Aug-2020 23:36:47.483 WARNING [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+17-Aug-2020 23:36:56.028 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+17-Aug-2020 23:37:20.531 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\bankbackend.war] has finished in [33,653] ms
+17-Aug-2020 23:37:20.535 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\bank]
+17-Aug-2020 23:37:20.588 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\bank] has finished in [53] ms
+17-Aug-2020 23:37:20.589 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\docs]
+17-Aug-2020 23:37:20.662 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\docs] has finished in [73] ms
+17-Aug-2020 23:37:20.663 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\examples]
+17-Aug-2020 23:37:22.314 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\examples] has finished in [1,651] ms
+17-Aug-2020 23:37:22.314 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\host-manager]
+17-Aug-2020 23:37:22.415 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\host-manager] has finished in [101] ms
+17-Aug-2020 23:37:22.416 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\manager]
+17-Aug-2020 23:37:22.561 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\manager] has finished in [145] ms
+17-Aug-2020 23:37:22.563 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\ROOT]
+17-Aug-2020 23:37:22.621 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\ROOT] has finished in [58] ms
+17-Aug-2020 23:37:22.631 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:37:22.652 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 35944 ms
+17-Aug-2020 23:39:25.575 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+17-Aug-2020 23:39:25.576 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:39:27.109 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+17-Aug-2020 23:39:27.256 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [bankbackend] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(Unknown Source)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:85)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+ java.lang.Thread.run(Unknown Source)
+17-Aug-2020 23:39:27.293 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:39:27.303 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:40:37.685 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.56
+17-Aug-2020 23:40:37.689 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 3 2020 20:18:30 UTC
+17-Aug-2020 23:40:37.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.56.0
+17-Aug-2020 23:40:37.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+17-Aug-2020 23:40:37.691 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+17-Aug-2020 23:40:37.691 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+17-Aug-2020 23:40:37.691 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_251
+17-Aug-2020 23:40:37.691 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_251-b08
+17-Aug-2020 23:40:37.692 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+17-Aug-2020 23:40:37.693 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56
+17-Aug-2020 23:40:37.693 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56
+17-Aug-2020 23:40:37.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\conf\logging.properties
+17-Aug-2020 23:40:37.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-Aug-2020 23:40:37.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+17-Aug-2020 23:40:37.695 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+17-Aug-2020 23:40:37.696 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+17-Aug-2020 23:40:37.700 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56
+17-Aug-2020 23:40:37.703 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56
+17-Aug-2020 23:40:37.705 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\temp
+17-Aug-2020 23:40:37.706 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+17-Aug-2020 23:40:37.707 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+17-Aug-2020 23:40:37.708 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+17-Aug-2020 23:40:37.720 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+17-Aug-2020 23:40:37.986 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:40:39.560 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+17-Aug-2020 23:40:39.610 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2691 ms
+17-Aug-2020 23:40:39.726 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-Aug-2020 23:40:39.729 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.56
+17-Aug-2020 23:40:39.824 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\bankbackend.war]
+17-Aug-2020 23:40:40.393 WARNING [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+17-Aug-2020 23:40:49.272 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+17-Aug-2020 23:41:17.279 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\bankbackend.war] has finished in [37,454] ms
+17-Aug-2020 23:41:17.326 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\bank]
+17-Aug-2020 23:41:17.496 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\bank] has finished in [171] ms
+17-Aug-2020 23:41:17.531 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\docs]
+17-Aug-2020 23:41:17.679 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\docs] has finished in [149] ms
+17-Aug-2020 23:41:17.695 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\examples]
+17-Aug-2020 23:41:20.225 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\examples] has finished in [2,530] ms
+17-Aug-2020 23:41:20.226 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\host-manager]
+17-Aug-2020 23:41:20.317 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\host-manager] has finished in [91] ms
+17-Aug-2020 23:41:20.318 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\manager]
+17-Aug-2020 23:41:20.444 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\manager] has finished in [126] ms
+17-Aug-2020 23:41:20.444 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\ROOT]
+17-Aug-2020 23:41:20.529 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\HP-PC\Desktop\apache-tomcat-8.5.56-windows-x64\apache-tomcat-8.5.56\webapps\ROOT] has finished in [84] ms
+17-Aug-2020 23:41:20.538 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:41:20.558 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 40940 ms
+17-Aug-2020 23:50:38.262 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+17-Aug-2020 23:50:38.263 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:50:39.634 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+17-Aug-2020 23:50:39.730 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [bankbackend] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(Unknown Source)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:85)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+ java.lang.Thread.run(Unknown Source)
+17-Aug-2020 23:50:39.752 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-Aug-2020 23:50:39.757 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
